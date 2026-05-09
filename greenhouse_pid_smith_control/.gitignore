@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.mat
+*.fig
+
+# Generated results
+figures/*.png
+figures/*.jpg
+figures/*.pdf
+results/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
